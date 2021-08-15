@@ -1,30 +1,31 @@
+
 {
 
   "title": "That Time I Got Reincarnated as a Slime",
 
-  "description": "အသက် ၃၇ နှစ် Lengends FA Satoru Mikami မမျှတတဲ့ဘဝကြီးမှာ ပုံမှန်အတိုင်းနဲ့နေထိုင်တယ်၊ ဒါပေမယ့် ဓားထိုးခံလို့သေသွားပြီး အခြားကမ္ဘာကြီးမှာ ဘဝအသစ်နဲ့တစ်ဖန်အစပြုခဲ့တယ်... နောက်ဘဝမှာတွေ့သမျှမိန်းကလေးတွေအကုန်ကြောင်ပစ်မယ်ဆိုတဲ့ဆန္ဒနဲ့အတူမကောင်းဆိုးဝါး Slime အနေနဲ့ အစပြုခဲ့ပါတယ်... ဘယ်လိုကောင်မလေးတွေကြားမှာစော်ကြည်မလဲ...? ဘယ်လိုစွမ်းအားတွေနဲ့ တိုက်ခိုက်မလဲ? မိုးကြိုးနဂါး Tempest ကိုဘယ်လိုကယ်ထုတ်မလဲ? အခြားကမ္ဘာ ကသူရဲကောင်းတွေနဲ့ဘယ်လိုတိုက်ခိုက်မလဲ ပြီးတော့ ဘယ်လိုဘီလူးတွေရဲ့ခေါင်းဆောင်ဖြစ်လာမလဲ ဆိုတာ ကြည့်ရှုအားပေးကြပါအုံးလို့...",
+  "description": "Lonely thirty-seven-year-old Satoru Mikami is stuck in a dead-end job, unhappy with his mundane life, but after dying at the hands of a robber, he awakens to a fresh start in a fantasy realm...as a slime monster! As he acclimates to his goopy new existence, his exploits with the other monsters set off a chain of events that will change his new world forever!",
 
   "artist": "Taiki Kawakami",
 
   "author": "Fuse",
 
-  "cover": "https://i.imgur.com/NiHbGyS.jpg",
+  "cover": "https://cdn.discordapp.com/attachments/466617567994445835/857259642437369897/RDT_20210623_1603078917049327338730082.jpg",
 
-  "chapters": {
+      "chapters": {
 
     "73": {
 
-      "title": "The Majin's Scheme",
+  "title": "The Majin's Scheme",
 
       "volume": "16",
 
       "groups": {
 
-        "Rimuru": "/proxy/api/imgur/chapter/i1YmV9T/"
+        "Tempest": "/proxy/api/imgur/chapter/i1YmV9T/"
 
       },
 
-      "last_updated": "1627510754"
+      "last_updated": "1574776860"
 
     }
 
